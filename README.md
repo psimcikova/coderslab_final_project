@@ -34,12 +34,12 @@ Additional tools used during development:
 * **Google Drive integration**
 
 ## Project Structure
-.
+```.
 ├── covid19_analysis.ipynb   # Main notebook with data analysis and visualizations
 ├── data/                    # (optional) dataset used in the analysis
 ├── images/                  # PNG graphs used in README
 │   └── covid_chart.png      # Example COVID-19 chart
-└── README.md                # Project description
+└── README.md                # Project description```
 
 ## Key Features
 
