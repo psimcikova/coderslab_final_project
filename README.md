@@ -39,7 +39,8 @@ Additional tools used during development:
 ├── data/                    # (optional) dataset used in the analysis
 ├── images/                  # PNG graphs used in README
 │   └── covid_chart.png      # Example COVID-19 chart
-└── README.md                # Project description```
+└── README.md                # Project description
+```
 
 ## Key Features
 
