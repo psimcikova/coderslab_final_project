@@ -34,7 +34,6 @@ Additional tools used during development:
 * **Google Drive integration**
 
 ## Project Structure
-
 .
 ├── covid19_analysis.ipynb   # Main notebook with data analysis and visualizations
 ├── data/                    # (optional) dataset used in the analysis
@@ -60,7 +59,7 @@ The notebook includes analyses such as:
 * interactive exploration of data using Plotly
 
 ## Example Visualization
-![COVID Chart](images/covid_chart.png)
+![COVID Chart](images/COVID-19 Cases by Country and Continent.png)
 
 ## How to Run the Project
 
