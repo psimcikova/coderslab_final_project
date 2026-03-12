@@ -35,12 +35,12 @@ Additional tools used during development:
 
 ## Project Structure
 
-```
 .
 ├── covid19_analysis.ipynb   # Main notebook with data analysis and visualizations
 ├── data/                    # (optional) dataset used in the analysis
+├── images/                  # PNG graphs used in README
+│   └── covid_chart.png      # Example COVID-19 chart
 └── README.md                # Project description
-```
 
 ## Key Features
 
@@ -58,6 +58,9 @@ The notebook includes analyses such as:
 * comparison of cases between selected countries
 * visualization of trends using line charts and heatmaps
 * interactive exploration of data using Plotly
+
+## Example Visualization
+![COVID Chart](images/covid_chart.png)
 
 ## How to Run the Project
 
