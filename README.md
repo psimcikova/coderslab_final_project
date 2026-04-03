@@ -35,11 +35,11 @@ Additional tools used during development:
 
 ## Project Structure
 ```.
-├── covid19_analysis.ipynb   # Main notebook with data analysis and visualizations
+├── covid_19_tracker.ipynb   # main notebook with data analysis and visualizations
 ├── data/                    # dataset used in the analysis
 ├── images/                  # PNG graphs used in README
-│   └── covid_chart.png      # Example COVID-19 chart
-└── README.md                # Project description
+│   └── covid_chart.png      # example COVID-19 chart
+└── README.md                # project description
 ```
 
 ## Key Features
