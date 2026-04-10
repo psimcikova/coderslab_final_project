@@ -44,7 +44,7 @@ Additional tools used during development:
 
 ## Key Features
 
-* Data cleaning and preprocessing
+* Using precleaned and preprocessed data
 * Exploratory data analysis (EDA)
 * Static visualizations using Matplotlib and Seaborn
 * Interactive charts using Plotly
@@ -55,7 +55,7 @@ Additional tools used during development:
 The notebook includes analyses such as:
 
 * development of COVID-19 cases over time
-* comparison of cases between selected countries
+* overview of cases and deaths in selected country
 * visualization of trends using line charts and heatmaps
 * interactive exploration of data using Plotly
 
