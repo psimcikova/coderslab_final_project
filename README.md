@@ -1,93 +1,46 @@
-# COVID-19 Tracker Data Analysis
-Final Project – Data Analysis Retraining Course
+# COVID-19 Data Visualization Project
 
-This repository contains a data analysis project based on a COVID-19 tracker dataset.
-The analysis was created as the **final project for a Data Analysis retraining course**.
+## 📌 Overview
+This project was created as part of a data analysis course, specifically focused on the data visualization module.
 
-The project explores pandemic-related data using Python and visualizes key trends with both static and interactive charts.
+The dataset was pre-cleaned and preprocessed as part of the course setup. The main goal of this project was therefore to explore the data and present insights through visualizations rather than perform full data cleaning.
 
-## Project Overview
+## 🎯 Objectives
+- Visualize trends in COVID-19 cases and deaths over time  
+- Compare selected countries  
+- Build an interactive dashboard using Dash  
 
-The goal of this project was to explore and analyze COVID-19 data in order to:
+## 🛠️ Tools & Technologies
+- Python (pandas)  
+- Plotly  
+- Dash  
 
-* understand trends in reported cases
-* compare development across countries or regions
-* create clear and informative data visualizations
-* build a simple interactive dashboard
+## 📊 Project Structure
+.
+├── covid_19_tracker.ipynb # Main notebook with analysis and visualizations
+├── data/ # Dataset used in the analysis
+├── images/ # Images used in this README
+└── README.md
 
-The analysis is implemented in a **Jupyter Notebook (.ipynb)**.
+## 📈 Example Visualization
+![COVID Chart](images/covid_chart.png)
 
-## Technologies Used
+## ▶️ How to Run
+1. Clone the repository  
+2. Install required libraries: pip install pandas plotly dash
+3. Run the notebook or start the dashboard: python app.py
+*(if using a separate Dash script)*
 
-The project was developed in **Python** using the following libraries:
+## 💡 Key Takeaways
+- Ability to work with structured datasets  
+- Creating interactive visualizations using Plotly  
+- Building a simple dashboard with Dash  
 
-* **pandas** – data cleaning and analysis
-* **seaborn** – statistical data visualization
-* **matplotlib** – static plots and charts
-* **plotly express** – interactive visualizations
-* **Dash** – simple web dashboard
-* **threading** – running the Dash app within the notebook
+## 🚀 Future Improvements
+- Extend analysis with additional metrics (e.g., per capita indicators)  
+- Work with raw (uncleaned) datasets  
+- Enhance dashboard interactivity and UI  
 
-Additional tools used during development:
-
-* **Google Colab**
-* **Google Drive integration**
-
-## Project Structure
-```.
-├── covid_19_tracker.ipynb   # main notebook with data analysis and visualizations
-├── data/                    # dataset used in the analysis
-├── images/                  # PNG graphs used in README
-│   └── covid_chart.png      # example COVID-19 chart
-└── README.md                # project description
-```
-
-## Key Features
-
-* Using precleaned and preprocessed data
-* Exploratory data analysis (EDA)
-* Static visualizations using Matplotlib and Seaborn
-* Interactive charts using Plotly
-* A simple interactive dashboard built with Dash
-
-## Example Analyses
-
-The notebook includes analyses such as:
-
-* development of COVID-19 cases over time
-* overview of cases and deaths in selected country
-* visualization of trends using line charts and heatmaps
-* interactive exploration of data using Plotly
-
-## Example Visualization
-![COVID Chart](images/COVID-19 Cases by Country and Continent.png)
-
-## How to Run the Project
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/covid19-tracker-analysis.git
-```
-
-2. Open the notebook
-
-You can run the project in:
-
-* **Jupyter Notebook**
-* **JupyterLab**
-* **Google Colab**
-
-3. Install required libraries if needed
-
-```bash
-pip install pandas seaborn matplotlib plotly dash
-```
-
-## Author
-
-Created as a **final project for a Data Analysis retraining course**.
-
-## License
-
-This project is intended for educational and portfolio purposes.
+## 📎 Author
+Pavlína Šimčíková
+www.linkedin.com/in/pavlína-šimčíková-357336397
