@@ -15,12 +15,15 @@ The dataset was pre-cleaned and preprocessed as part of the course setup. The ma
 - Plotly  
 - Dash  
 
+
 ### 📁 Project Structure
+```
 .
 ├── covid_19_tracker.ipynb # Main notebook with analysis and visualizations
 ├── data/ # Dataset used in the analysis
 ├── images/ # Images used in this README
 └── README.md
+```
 
 ## 📈 Example Visualization
 ![COVID Chart](images/covid_chart.png)
